@@ -2,7 +2,7 @@
   {
     "id": "rule-of-law",
     "name": "Rule of Law (Venice Commission)",
-    "author": "HURIDOCS",
+    "author": "Lukasz Szoszkiewicz",
     "description": "Categories based on the Venice Commission Rule of Law checklist. Covers access to justice, constitutional review, equality, legal certainty, legality, and prevention of abuse of power.",
     "categories": 6,
     "examples": 30,
