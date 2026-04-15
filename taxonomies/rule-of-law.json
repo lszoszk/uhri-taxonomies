@@ -1,0 +1,229 @@
+{
+  "id": "rule-of-law",
+  "name": "Rule of Law (Venice Commission)",
+  "author": "HURIDOCS",
+  "description": "Categories based on the Venice Commission Rule of Law checklist, adapted for classifying UN human rights recommendations. Covers access to justice, legality, prevention of abuse of power, equality and non-discrimination, constitutional review, and legal certainty.",
+  "license": "CC BY 4.0",
+  "categories": [
+    "Access to justice",
+    "Constitutional review",
+    "Equality and non-discrimination",
+    "Legal certainty",
+    "Legality",
+    "Prevention of abuse of power"
+  ],
+  "examples": [
+    {
+      "text": "44. The Committee urges the State party to repeal all legislation treating child victims as offenders rather than as victims and to ensure that sexual abuse against children, in particular child prostitution and child pornography, is criminalized and that perpetrators are duly prosecuted and punished with sanctions commensurate with the gravity of their crimes. To this end, the State party should also establish mechanisms, procedures and guidelines to ensure the mandatory reporting of cases of c",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Human rights defenders, journalists and lawyers working on economic, social and cultural rights 11. The Committee recommends that the State party:  (a) Strengthen the protection of human rights defenders, journalists and lawyers working on economic,  social  and cultural human rights, as well as their family members, from any kind of threat, harassment, kidnapping, torture, enforced disappearance and killings;  (b) Ensure  that all violations, including by non-State actors, are promptly,  effect",
+      "labels": [
+        "Access to justice",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Excessive use of force during the protests of spring 2021 and autumn 2022 8.The Committee notes with concern the recurrent allegations of excessive use of force against demonstrators during the period under review. It is concerned at the numerous allegations that, during the demonstrations that took place in the context of the presidential election and following the establishment of the transitional military council in April 2021, as well as in the context of the inclusive and sovereign national",
+      "labels": [
+        "Access to justice",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "State of emergency 13. The State party should take measures to:  (a) Ensure that any process of derogation from the Covenant complies with article 4 and, to that end, develop national guidelines on the implementation of a proclamation of state of emergency;   (b) Effectively investigate all allegations of human rights violations committed during the state of emergency of 2014 with a view to bringing perpetrators to justice and providing victims with effective remedies.",
+      "labels": [
+        "Access to justice",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Discrimination in employment  23.The Committee takes note of the 2015 annual report on discrimination, which refers to several specific measures for preventing discrimination and improving the conditions of access to employment of persons from minority groups. It is concerned, however, about the relatively high unemployment rate among ethnic minorities, particularly among young and female members of minority groups. The Committee notes with concern that highly educated young migrants have diffic",
+      "labels": [
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Access to justice for migrant workers   22.  Recalling its general recommendation No. 31, the Committee recommends that the State party:  (a) Eliminate all barriers in access to justice by ensuring that all foreign workers have access to independent and effective complaint mechanisms, without fear of acts of reprisal;  (b) Conduct awareness-raising activities regarding the respective rights and duties of workers and employers;  (c) Enforce existing protective policies and legislation for migrant",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Torture, ill-treatment and prison conditions 34. The State party should: (a) Ensure that all allegations of torture and ill-treatment are investigated promptly, impartially and thoroughly, that the perpetrators are prosecuted and punished and that victims are provided with effective remedies;  (b) Review the Criminal Code to include torture as a criminal offence and conclude the ratification process for the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment ",
+      "labels": [
+        "Access to justice",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Forced sterilization 31.  The Committee reiterates its recommendation that the State party ensure that Roma women who were victims of sterilization without their informed consent have access to effective remedies and adequate compensation, and that perpetrators are brought to justice. It recommends that measures taken to address the issue of forced sterilization are developed in consultation with and with the participation of members of the Roma community. It also recommends that the State party",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Prohibition of torture and other cruel, inhuman or degrading treatment or punishment 29. The State party should take all measures necessary to end the practice of torture and ill-treatment, in line with the Covenant and international standards. In particular, it should: (a) Urgently adopt anti-torture legislation and ensure that it contains a definition of torture compliant with international law;   (b) Conduct prompt, thorough, transparent and impartial investigations into all allegations of to",
+      "labels": [
+        "Access to justice",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Security crisis and state of siege 5. The Committee urges the State party to: (a)  Take all effective measures, without delay, to guarantee the enjoyment of the Covenant rights by persons living in the regions affected by armed conflict,  especially in the east of the country;  (b) Provide effective protection for the country ’ s internally displaced persons so as to ensure that they have access to adequate food, decent housing and basic services, including water supplies and sanitation, health ",
+      "labels": [
+        "Access to justice",
+        "Legality",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Investigation and prosecution of acts of torture and ill-treatment 23. The State party should: (a) Carry out prompt, impartial and effective investigations into all allegations of torture and ill-treatment, including excessive use of force by law enforcement officials, and ensure that those suspected of having committed such acts  are immediately suspended from their duties throughout the period of investigation, while ensuring that the principle of presumption of innocence is observed;  (b) Pro",
+      "labels": [
+        "Access to justice",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Non-discrimination 14.The Committee notes the information provided by the State party that it is reviewing the Prevention of Discrimination Act 1997. However, it remains concerned about the absence of comprehensive anti-discrimination legislation that extends beyond discrimination in employment, provides full and effective protection against all forms of discrimination prohibited under the Covenant, including direct, indirect and multiple discrimination, and contains a list of prohibited grounds",
+      "labels": [
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Sexual exploitation and abuse  34.The Committee welcomes the adoption in 2005 of the law on sexual aggression. It is seriously concerned, however, about the high number of cases of sexual exploitation and abuse of children, which has further increased following the 2010 earthquake with a significant number of cases affecting children in IDP camps. It also notes with concern that perpetrators frequently enjoy impunity or receive light sentences. Furthermore, the Committee is concerned about:  (a)",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Women’s access to justice 22. The Committee recommends that the State party: (a) Ensure that Legal Aid South Africa has adequate human, technical and financial resources to deliver on its mandate to provide adequate legal assistance free of charge to women without sufficient means;  (b) Ensure that all cases of gender-based violence against women, including sexual violence, are duly investigated, that perpetrators are prosecuted and adequately punished, and that victims have access to adequate r",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "41.The Committee is concerned about cases in which persons with disabilities, especially women, children, Afro-Hondurans and indigenous peoples, are victims of physical and/or psychological ill-treatment, sexual violence and/or exploitation and abuse, including exploitation for the purpose of begging, and that there are no measures for their protection, recovery or compensation. It is also concerned that such cases are not properly investigated and that the perpetrators therefore go unpunished.",
+      "labels": [
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Counter-terrorism measures \n 45. The State party should take all measures necessary to ensure that its counter ‑ terrorism and national security legislation, policies and practices are fully in line with the Convention and that adequate and effective legal safeguards against torture and ill-treatment and arbitrary detention are in place. Furthermore, the State party should carry out prompt, impartial and effective investigations into all allegations of human rights violations, including acts of ",
+      "labels": [
+        "Access to justice",
+        "Legality",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "J.Special protection measures (arts. 22, 30, 32–33, 35–36, 37 (b)–(d) and 38–40) 43. The Committee  welcomes the  national  action  plan to combat child labour  and the prohibition of  employment of children in domestic work, but  it  is deeply concerned a bou t the high number of children engaged in domestic work and hazardous work. Taking note of target 8.7 of the Sustainable Development Goals, the Committee recalls its previous recommendations and recommends that the State party: (a) Establis",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Protection of persons who report or who participate in the investigation of enforced disappearance 39.The Committee notes the information provided during the dialogue that the Special Prosecutor’s Office and the Special Tribunal for the Gambia will be responsible for making arrangements for the protection of victims and witnesses. However, it regrets the lack of existing mechanisms to protect complainants, witnesses, relatives of the disappeared person and their defence counsel, and all those pa",
+      "labels": [
+        "Access to justice"
+      ]
+    },
+    {
+      "text": "Report on the visit of the Subcommittee on Prevention of Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment to Kyrgyzstan*** 33.The SPT noted that the problem of impunity is further exacerbated in the south of the country, following the June 2010 events.",
+      "labels": [
+        "Access to justice",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Prohibition of torture and other cruel, inhuman or degrading treatment or punishment 18.While noting that the Commission for Disciplinary Control of the Security Forces and Services conducts monitoring activities in places of detention and that detainees can bring their complaints to prison authorities, the Committee is concerned by the information provided by the delegation that there were no complaints of torture or ill-treatment of prisoners between 2011 and 2021. In this respect, it regrets ",
+      "labels": [
+        "Access to justice",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Training 25.The Committee acknowledges the efforts made by the State party to develop and implement educational and training modules on human rights, including on the absolute prohibition of torture, for law enforcement officers, prison staff, judges, prosecutors, members of the armed forces and public defenders. However, it regrets the limited information on mandatory and in-service training on the Istanbul Protocol, as revised, and on mechanisms for evaluating the effectiveness of training pro",
+      "labels": [
+        "Access to justice",
+        "Legality",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Economic exploitation, including child labour 41. The Committee reiterates its previous recommendations (CRC/C/MRT/CO/2, para. 76) and urges the State party to:  (a) Expeditiously adopt the draft legislation aimed at prohibiting the worst forms of child labour, ensuring that it is in line with the Convention, and allocate sufficient human, technical and financial resources for the implementation of laws and policies on child labour, including the National Action Plan for the Elimination of Child",
+      "labels": [
+        "Access to justice",
+        "Legality"
+      ]
+    },
+    {
+      "text": "Elimination of slavery, servitude and trafficking in persons  33. The State party should further strengthen its efforts to effectively prevent and combat trafficking in persons, including children, by, inter alia:  (a) Ensuring effective identification of victims, including the screening of groups in vulnerable situations, such as migrants and asylum-seekers;  (b) Investigating all cases of trafficking promptly and thoroughly, and prosecuting suspected perpetrators under the applicable legislati",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination",
+        "Legality"
+      ]
+    },
+    {
+      "text": "National human rights commission  33. The State party should take the necessary legislative and other measures to ensure, in law and in practice, the independence of the National Commission for Human Rights, so that it investigates promptly and impartially all allegations of torture and ill-treatment that it receives and reports on illegal detention and on complaints of torture in its annual reports.",
+      "labels": [
+        "Access to justice",
+        "Legality",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Excessive use of force 22.While welcoming the information provided by the State party on human rights training for members of law enforcement and security forces, the Committee regrets the lack of information received on complaints filed, investigations and prosecutions undertaken, and convictions handed down for excessive use of force and unlawful killings by police and security forces, as well as the lack of information on compensation provided to victims or their families. The Committee is co",
+      "labels": [
+        "Access to justice",
+        "Legality",
+        "Prevention of abuse of power"
+      ]
+    },
+    {
+      "text": "Gender-based violence against women and girls 29.The Committee welcomes the adoption of the national action plan to prevent violence against all women and girls for the period 2023–2028, the criminalization of marital rape, stricter sentencing policies and the establishment of a “no-drop” policy for prosecuting gender-based violence against women and girls. However, it notes with concern: (a)The high prevalence of gender-based violence against women and girls in the State Party, the continuing j",
+      "labels": [
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Elimination of slavery, servitude and trafficking in persons  25.The Committee welcomes the efforts taken by the State party to combat and prevent trafficking in persons, including the amendments in 2019 to the Prevention and Combating of Trafficking and Exploitation of Persons and Protection of Victims Law, which significantly raised the penalties for trafficking offences under the law, and the creation in 2016 of the National Referral Mechanism. However, it is concerned about the continued pre",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Protection of persons who report an enforced disappearance and/or participate in the investigation 34.  The Committee recommends that the State party establish mechanisms, including a structured programme, to ensure that all the persons referred to in article 12 (1) of the Convention are effectively protected against all ill-treatment or intimidation as a consequence of the complaint or any evidence given.",
+      "labels": [
+        "Access to justice"
+      ]
+    },
+    {
+      "text": "Violence against women 14.The Committee notes the measures taken by the State party to prevent and combat violence against women. It is nonetheless concerned by reports that violence against women and girls, including femicide and sexual violence, remains widespread in the country. Although it notes the progress, described during the dialogue, in investigating the 113 femicides committed since November 2020, the Committee is concerned at the low conviction rate in cases of violence against women",
+      "labels": [
+        "Equality and non-discrimination"
+      ]
+    },
+    {
+      "text": "Gender-based violence against women 34. Recalling its general recommendation No.  35 (2017)  on gender-based violence against women, updating general recommendation No. 19, the Committee recommends that the State party: (a) Adopt legislation to ensure that all forms of gender-based violence against women, including domestic violence and online violence, are specifically criminalized, and take into account the special protection needs of disadvantaged and marginalized groups of women, including w",
+      "labels": [
+        "Access to justice",
+        "Equality and non-discrimination"
+      ]
+    }
+  ]
+}
