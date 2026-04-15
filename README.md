@@ -42,7 +42,7 @@ Each taxonomy is a JSON file containing:
 
 | Name | Categories | Examples | Author |
 |------|-----------|----------|--------|
-| [Rule of Law (Venice Commission)](taxonomies/rule-of-law.json) | 6 | 30 | HURIDOCS |
+| [Rule of Law (Venice Commission)](taxonomies/rule-of-law.json) | 6 | 30 | Lukasz Szoszkiewicz |
 
 ## License
 
